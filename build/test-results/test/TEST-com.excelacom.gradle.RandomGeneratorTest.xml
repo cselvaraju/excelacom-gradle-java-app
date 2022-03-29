@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.excelacom.gradle.RandomGeneratorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-03-28T23:43:13" hostname="DESKTOP-KC9SH9Q" time="0.03">
+  <properties/>
+  <testcase name="testName" classname="com.excelacom.gradle.RandomGeneratorTest" time="0.006"/>
+  <testcase name="testRandomGenerator" classname="com.excelacom.gradle.RandomGeneratorTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
